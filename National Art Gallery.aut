@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AutopsyCase>
+  <SchemaVersion>5.0</SchemaVersion>
+  <CreatedDate>2024/05/08 14:47:25 (EAT)</CreatedDate>
+  <ModifiedDate>2024/05/08 14:47:28 (EAT)</ModifiedDate>
+  <CreatedByAutopsyVersion>4.20.0</CreatedByAutopsyVersion>
+  <SavedByAutopsyVersion>4.20.0</SavedByAutopsyVersion>
+  <Case>
+    <Name>national_art_gallery_20240508_144725</Name>
+    <DisplayName>National Art Gallery</DisplayName>
+    <Number>Autopsy 4.19.3</Number>
+    <Examiner/>
+    <ExaminerPhone/>
+    <ExaminerEmail/>
+    <CaseNotes/>
+    <CaseType>Single-user case</CaseType>
+    <Database/>
+    <CaseDatabase>autopsy.db</CaseDatabase>
+    <TextIndex/>
+  </Case>
+  <OriginalCase/>
+</AutopsyCase>
